@@ -1,10 +1,9 @@
-来自zte opensources的w205ds-esim内核源码（暂未验证是否可用）
+# 来自zte opensources的w205ds-esim内核源码（暂未验证是否可用）
 
 
 
 
-
-
+# 以下为原readme
 
 # How do I submit patches to Android Common Kernels
 
