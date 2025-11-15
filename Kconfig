@@ -31,4 +31,4 @@ source "lib/Kconfig.debug"
 
 source "Documentation/Kconfig"
 
-source "../../modules/common/camera/Kconfig"
+#source "../../modules/common/camera/Kconfig"
