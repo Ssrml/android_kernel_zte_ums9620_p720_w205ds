@@ -148,5 +148,3 @@ x509.genkey
 /compile_commands.json
 
 # zte kernel
-include/vendor
-drivers/vendor
